@@ -28,7 +28,7 @@
     "fastify": "^3.2.1",
     "fastify-websocket": "^2.0.7",
     "lib0": "^0.2.33",
-    "next": "^9.5.2",
+    "next": "^9.5.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "reconnecting-websocket": "^4.4.0",
